@@ -9,7 +9,7 @@
 # kebab-case (saldo-conto) SCONSIGLIATO
 # UPPER_CASE (SALDO_CONTO) solitamente utilizzato per le costanti
 
-# ISTANZIO UNA VARIABILE (dichiaro e assegno)
+# ISTANZIO UNA VARIABILE (dichiaro e assegno una variabile)
 # nomeVariabile = valore
 mioNome = "Dario"
 eta = 36
