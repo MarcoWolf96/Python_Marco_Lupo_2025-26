@@ -2,7 +2,7 @@
 
 # Range di voto - affinché il voto venga registrato si deve trovare tra 18 e 30
 
-voto = 30
+voto = 300
 
 if voto >= 18 and voto <= 30:
 #if 18 <= voto <= 30:
