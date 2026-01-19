@@ -25,6 +25,7 @@ git config --global user.email "tua.email@esempio.com"
 Verifica la configurazione:
 ```bash
 git config --list
+prova
 ```
 
 ## Comandi fondamentali
